@@ -12,10 +12,10 @@ The are various application of Automatic vending machine. Food or beverage vendi
 # HIGH LEVEL REQUIREMENTS
 | ID   | DESCRPTION  | STATUS  |
 |-------------|-------------------|-----------|
-| 01 | User can have chocolates as he wish| present |
+| 01 | User can have items as he wish| present |
 | 02 | User can have return change when price is below inserted coin | present |
-| 03 | User can have refundable amount when chocolates are finished | present |
-| 04 | User can have extra chocolate when there is an offer | present |
+| 03 | User can have refundable amount when items are finished | present |
+| 04 | User can have extra item when there is an offer | present |
 | 05 | inserting cash insted of coins | Not present |
 # LOW LEVEL REQUIREMENTS
 | ID   | DESCRPTION  | STATUS  |
