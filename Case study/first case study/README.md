@@ -16,3 +16,5 @@ The are various application of Automatic vending machine. Food or beverage vendi
 | 02 | User can have return change when price is below inserted coin | present |
 | 03 | User can have refundable amount when chocolates are finished | present |
 | 04 | User can have extra chocolate when there is an offer | present |
+| 05 | inserting cash insted of coins | Not present |
+# LOW LEVEL REQUIREMENTS
