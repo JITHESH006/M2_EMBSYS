@@ -16,3 +16,4 @@ MOTOR.
 # APPLICATION
 Providing a way for the owner of the house to provide access to multiple users without compromising the security as well as getting updated about the activities.Face recognition based access control system has been developed to provide better security.This system can be used in several places where high security is required where confidential information and equipment is kept.
 # BLOCK DIAGRAM
+![BLOCK DIAGRAM OF FACE RECOGNIZATION SYSTEM](blockk.png)
