@@ -10,3 +10,9 @@ power supply.
 # APPLICATIONS
 The are various application of Automatic vending machine. Food or beverage vending machines are the most common use for vending machines, used to sell tickets for anything from  Sports to theatre
 # HIGH LEVEL REQUIREMENTS
+| ID   | DESCRPTION  | STATUS  |
+|-------------|-------------------|-----------|
+| 01 | User can have chocolates as he wish| present |
+| 02 | User can have return change when price is below inserted coin | present |
+| 03 | User can have refundable amount when chocolates are finished | present |
+| 04 | User can have extra chocolate when there is an offer | present |
