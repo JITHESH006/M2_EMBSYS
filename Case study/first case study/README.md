@@ -25,3 +25,4 @@ The are various application of Automatic vending machine. Food or beverage vendi
 | 03 | Coin inlet | present |
 | 04 | Item outlet | present |
 | 05 |Automatic change in price of item  | Not present |
+# BLOCK DIAGRAM
