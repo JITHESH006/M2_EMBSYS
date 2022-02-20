@@ -1,3 +1,4 @@
+# AUTOMATIC VENDING MACHINE
 # INTRODUCTION
 when the user inserts the coin in the coin inlet for the Items inside the machine.The machine can be used for vending  chocolates,snacks and tickets e.t.c.. A vending machine is essentially a shop that has been automated. Products are placed into a machine and are normally accessible for purchase 24 hours a day, seven days a week. Freshly produced beverages, bottles, cans, snacks, and fresh food are frequent vending products. However, it appears like there is no limit to what can be sold nowadays. A vending machine's selection number or corresponding button corresponds to each item. Customers fill out their coin insert/card, select the appropriate item number or button, and then wait for their desired product to be delivered.
 # COMPONENTS
