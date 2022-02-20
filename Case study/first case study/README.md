@@ -9,3 +9,4 @@ RTOS,
 power supply.
 # APPLICATIONS
 The are various application of Automatic vending machine. Food or beverage vending machines are the most common use for vending machines, used to sell tickets for anything from  Sports to theatre
+# HIGH LEVEL REQUIREMENTS
