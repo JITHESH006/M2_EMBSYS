@@ -18,3 +18,9 @@ The are various application of Automatic vending machine. Food or beverage vendi
 | 04 | User can have extra chocolate when there is an offer | present |
 | 05 | inserting cash insted of coins | Not present |
 # LOW LEVEL REQUIREMENTS
+|-------------|-------------------|-----------|
+| 01 | User can isert different coins| present |
+| 02 | Message dsplay in the lcd | present |
+| 03 | Coin inlet | present |
+| 04 | Item outlet | present |
+| 05 |Automatic change in price of item  | Not present |
