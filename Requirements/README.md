@@ -42,4 +42,4 @@ Warming framework inside the seat
 |ID|Descrption|Status|
 |--|----------|------|
 |LR01|Dependability of the switch associated with the seat|Implemented|
-|LR02|Indicate the obligation cycles in light of the temperature|Implemented|
+|LR02|Indicate the obligation cycles in light of the temperature|Implemented| 
