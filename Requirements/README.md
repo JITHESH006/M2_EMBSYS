@@ -19,8 +19,6 @@ Neglects to recognize glitch
 ### Opportunity
 To adapt with the AC environment settings
 To detect error if malfunctions
-### Threat
-Excessive heating can damage the sea
 # 4W's and 1H
 ## WHO
 The driver and travelers.
