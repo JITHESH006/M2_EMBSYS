@@ -1,5 +1,5 @@
 ## FLOW CHART Diagram
-![Flow chart ](./flowc.jpg)
+![Flow chart ](./flowc.png)
 
 ## BLOCK DIAGRAM
 ![Block Diagram ](./Emb.jpg)
