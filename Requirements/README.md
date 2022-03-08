@@ -25,7 +25,7 @@ Excessive heating can damage the sea
 ## WHO
 The driver and travelers.
 ## WHAT
-Warmed seats for more solace.
+cooled seats for more solace.
 ## WHEN
 Exceptionally powerful during cold winters and hot summers.
 ## WHERE
