@@ -2,10 +2,10 @@
 ## Introduction
 Many automobile industry now use air conditioners to avoid heat, and heaters are equally important in cold places. This will keep the person driving in a comfortable position.
 ## Abstract
-The hotness control framework is fundamentally used to control the temperature of a vehicle seat. At the point when a client or driver of the vehicle gets situated on a vehicle, the button sensor gets enacted. From that point onward, the client gains admittance to turn on the warmer. The temperature sensor continues to screen the temperature and sends the simple worth to the microcontroller. The microcontroller processes the simple contribution of the temperature sensor and results a temperature esteem through sequential correspondence. Every one of the exercises of the control framework are done on a microcontroller called Atmega328.
+The coldness control framework is fundamentally used to control the temperature of a vehicle seat. At the point when a client or driver of the vehicle gets situated on a vehicle, the button sensor gets enacted. From that point onward, the client gains admittance to turn on the coldness. The temperature sensor continues to screen the temperature and sends the simple worth to the microcontroller. The microcontroller processes the simple contribution of the temperature sensor and results a temperature esteem through sequential correspondence. Every one of the exercises of the control framework are done on a microcontroller called Atmega328.
 ## Advantages
 Comfortable driving experience.
-Faster heating of seats and reduced dependancy of AC heater.
+Faster cooling of seats and reduced dependancy of AC .
 ## Disadvantages
 It is not automatic.
 ## SWOT 
@@ -27,11 +27,11 @@ The driver and travelers.
 ## WHAT
 Warmed seats for more solace.
 ## WHEN
-Exceptionally powerful during cold winters.
+Exceptionally powerful during cold winters and hot summers.
 ## WHERE
 In the seats of the vehicle.
 ## HOW
-Warming framework inside the seat
+cooling framework inside the seat
 # HLR
 |ID|Descrption|Status|
 |--|----------|------|
