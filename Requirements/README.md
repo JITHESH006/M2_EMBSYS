@@ -19,6 +19,8 @@ Neglects to recognize glitch
 ### Opportunity
 To adapt with the AC environment settings
 To detect error if malfunctions
+### Threat
+Excessive cooling can effect the interior cabin and the  passanger seats 
 # 4W's and 1H
 ## WHO
 The driver and travelers.
